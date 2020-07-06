@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react'
 import {connect} from 'react-redux'
-import {login} from '../redux/reducer';
+import {login} from '../../redux/reducer';
 import NavBar from '../NavBar';
 import './LoginForm.css'
 
